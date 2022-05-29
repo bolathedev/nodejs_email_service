@@ -1,14 +1,36 @@
 {
   "name": "nodejs-email-service",
   "version": "0.0.1",
-  "description": "",
+  "description": "This service helps to send emails using nodejs. Send multiple different types of emails with their corressponding templates all with one functions.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolathedev/nodejs_email_service.git"
+  },
+  "keywords": [
+    "emails",
+    "nodejs",
+    "email",
+    "email-service",
+    "email-sending-service",
+    "email-sending-nodejs-service",
+    "email-sending-nodejs-service-api",
+    "email-sending-nodejs-service-api-documentation",
+    "send-emails-with-nodejs",
+    "send-custom-emails-with-nodejs",
+    "mailgun",
+    "Gmail",
+    "mutliple emails"
+  ],
+  "author": "bolathedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bolathedev/nodejs_email_service/issues"
+  },
+  "homepage": "https://github.com/bolathedev/nodejs_email_service#readme",
   "dependencies": {
     "nodemailer": "^6.7.5",
     "nodemailer-express-handlebars": "^5.0.0"
