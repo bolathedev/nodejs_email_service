@@ -1,6 +1,6 @@
 {
   "name": "nodejs-email-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This service helps to send emails using nodejs. Send multiple different types of emails with their corressponding templates all with one functions.",
   "main": "index.js",
   "scripts": {
